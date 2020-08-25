@@ -1,0 +1,20 @@
+PROYECTO DE WEBSCRAPING
+
+Objetivo general
+    * Aplicación real de webscraping.
+
+Objetivos específicos
+    * Rastrear informacion relevante sobre las propiedades ofertadas en www.fincaraiz.com.co.
+    * Plantear mecanismos para almacenar y organizar la información obtenida.
+    * Separar precios, áreas y habitaciones por vivienda.
+    * De ser posible, habilitar opciones de búsqueda por forma de oferta (venta, arriendo, vacaiones).
+
+Método empleado
+    * Emplear python como lenguaje principal.
+    * Apoyo de las librerias requests y Beatiful Soup.
+    * Crear un programa de python que permita rastrear los formatos HTML y CSS de páginas web para ubicar, filtrar y organizar los datos de importnacia.
+
+DESCRIPCIÓN
+Se busca entregar una base de datos, o en su defecto un archivo CSV, que contenga la información que se considera relevante para la eleccion de un lugar de residencia. 
+En principio, se trabja con limitaciones como Tipo de vivienda: Apartamento, Tipo de oferta: Arriendo, Ciudad: Medellín. Se conserva la idea de extender dichas limitaciones a medida que se desarrolle el proyecto.
+Al final, se tendrá una aplicación que automatice la busqueda de la información más relevnte, de forma que sea más cómoda y eficiente su comparación.
